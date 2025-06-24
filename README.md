@@ -67,7 +67,3 @@ This project implements a deep learning-based Speech Emotion Recognition (SER) s
 
 ---
 
-**How to Use:**  
-- Run `app.py` with Streamlit for a web interface.
-- Use `test_model.py` for batch or single-file prediction via command line.
-
